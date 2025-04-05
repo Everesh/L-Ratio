@@ -1,0 +1,1 @@
+puts "Hello, L+Ratio!"
